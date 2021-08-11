@@ -1,7 +1,7 @@
 # nltk-ormanyangini-twitter
 
 
-Gereksinimler:
+Gereksinimler :factory: :
 
   +Twitter api hesabı
   +Tweepy kütüphanesi
