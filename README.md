@@ -4,7 +4,9 @@
 Gereksinimler :factory: :
 
   +Twitter api hesabı
+  
   +Tweepy kütüphanesi
+  
   +nlkt kütüphanesi
   
   
