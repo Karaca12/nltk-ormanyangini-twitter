@@ -1,7 +1,7 @@
 # nltk-ormanyangini-twitter
 
 
-<h1>Gereksinimler :factory: :<h1>
+<h1>Gereksinimler :factory: :</h1>
 
   Twitter api hesabı
   
