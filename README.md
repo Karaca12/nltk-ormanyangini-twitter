@@ -1,13 +1,13 @@
 # nltk-ormanyangini-twitter
 
 
-<h1>Gereksinimler :factory: : <h1>
+<h1>Gereksinimler :factory: :<h1>
 
-  +Twitter api hesabı
+  Twitter api hesabı
   
-  +Tweepy kütüphanesi
+  Tweepy kütüphanesi
   
-  +nlkt kütüphanesi
+  nlkt kütüphanesi
   
   
   
