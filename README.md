@@ -16,3 +16,4 @@
 <b>Lütfen yazıyı okuyarak daha fazla bilgi edininiz.</b>
  :memo: :fast_forward: https://medium.com/@karacaylmaz2016/orman-yang%C4%B1nlar%C4%B1-ve-twitter-metin-madencili%C4%9Fi-18fa37f6c8be
  
+ 
